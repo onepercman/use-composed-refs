@@ -1,6 +1,6 @@
 {
   "name": "use-composed-refs",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "author": "onepercman",
   "description": "A lightweight library providing utilities to manage multiple refs in reusable React components, with TypeScript support.",
   "main": "dist/index.js",
